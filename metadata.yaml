@@ -1,0 +1,44 @@
+_repo: King-Winter_17764
+_version: 0.1.0
+back_cover:
+  cover_type: archival_back
+  image_path: 17764/17764-h/images/back.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+covers:
+- cover_type: archival
+  image_path: 17764-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_issued: '2006-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17764'
+language: en
+publication_note: "Published by\r\nGustav W. Seitz\r\nHamburg.\r\nENTP at Stationer's\
+  \ Hall"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas'
+- !lcsh 'Winter'
+- !lcc 'PZ'
+- !lcsh 'Poetry'
+summary: King Winter, the embodiment of the Christmas Spirit, leaves his palace of
+  snow to bring winter to the land and reward obedient children with holiday sweets.
+title: King Winter
+titlepage_image:
+  cover_type: titlepage_image
+  image_path: 17764/17764-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+url: http://www.gutenberg.org/ebooks/17764
